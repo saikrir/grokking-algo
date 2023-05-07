@@ -1,11 +1,10 @@
 package ds.algo;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
-import static ds.algo.common.ArrayUtils.*;
+import static ds.algo.common.ArrayUtils.listOfSize;
+import static ds.algo.common.ArrayUtils.printList;
 
 public class QuickSort {
 
